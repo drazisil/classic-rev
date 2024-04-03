@@ -1,0 +1,17 @@
+{
+  "name": "classic-rev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^7.109.0",
+    "@sentry/profiling-node": "^7.109.0"
+  }
+}
